@@ -1,7 +1,6 @@
 # 📦 AWS Inventory Management System
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)](https://aws.amazon.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 
